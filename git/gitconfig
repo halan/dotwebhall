@@ -1,0 +1,26 @@
+[user]
+	name = Nice e Halan
+	email = nice@webhall.com.br
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	ui = always
+
+[alias]
+	co = commit
+	st = status
+	ad = add
+	ch = checkout
+	re = reset
+	br = branch
+	pl = pull
+	ps = push
+	lg = log
+	df = diff
+	dfc = diff --cached
+	me = merge
+	lg = log -p
+    	lol = log --graph --decorate --pretty=oneline --abbrev-commit
+    	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+	
