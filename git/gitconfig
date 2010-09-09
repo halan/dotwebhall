@@ -6,6 +6,8 @@
 	status = auto
 	branch = auto
 	ui = always
+[core]
+	editor = 'vim'
 
 [alias]
 	co = commit
